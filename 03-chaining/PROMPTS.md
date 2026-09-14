@@ -520,11 +520,12 @@ The goal is not to redesign the trust panel. The goal is to make the verificatio
 
 ## Reusable techniques learned
 
-- _____
-- _____
+- Using the README.md file when refining the prompt increases and makes easier to define the context.
+- Dividing the problem on specific areas (Expand, behavior, refine) increases the guarantee better results and makes easier to define the problem.
+- In my case, using an app for prompting and another for prototyping improves the credits usage.
 
 ## What broke (and the fix)
 
 _Where a single mega-prompt failed and chaining fixed it._
 
-_____
+The plan process with the 3 prompts and the final prompt execution went smoothly. 
